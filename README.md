@@ -1,1 +1,1 @@
-# thesis-cognitive-distortion-frontend
+# THESIS: CONVERSATIONAL AI FOR COGNITIVE DISTORTIONS
