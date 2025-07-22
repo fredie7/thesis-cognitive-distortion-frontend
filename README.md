@@ -1,5 +1,8 @@
 # THESIS: CONVERSATIONAL AI FOR COGNITIVE DISTORTIONS
 
+### TOOLS:
+Next Js, Typescript, Firebase
+
 ### USER INTERFACE
 
 <table align="center">
