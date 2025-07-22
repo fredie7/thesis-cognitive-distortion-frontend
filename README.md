@@ -21,3 +21,10 @@
     </td>
   </tr>
 </table>
+
+### Link to thesis publication:
+https://oulurepo.oulu.fi/handle/10024/57086
+
+### Link to backend-end repository:
+https://github.com/fredie7/thesis-cognitive-distortion-backend
+
